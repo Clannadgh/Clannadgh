@@ -116,20 +116,6 @@
 
 <br>
 
-## <span style="color:#00d9ff">▸</span> `run stats --live`
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Clannadgh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c5d1de&icon_color=ff006e&border_radius=0" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Clannadgh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=c5d1de&border_radius=0" alt="Top Langs"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Clannadgh&theme=radical&hide_border=true&background=0d1117&stroke=00ff9f&ring=ff006e&fire=ffd60a&currStreakLabel=00ff9f" alt="Streak Stats"/>
-</p>
-
-<br>
-
 ## <span style="color:#00ff9f">▸</span> `view trophy_room/`
 
 <p align="center">
