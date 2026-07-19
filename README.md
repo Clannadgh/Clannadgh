@@ -116,77 +116,10 @@
 
 <br>
 
-## <span style="color:#00ff9f">▸</span> `view trophy_room/`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Clannadgh&theme=radical&no-frame=true&column=4&margin-w=4&margin-h=4&rank=-C,-B" alt="Trophies"/>
-</p>
-
-<br>
-
 ## <span style="color:#ff006e">▸</span> `tail -f activity.log`
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clannadgh&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9f&line=ff006e&point=ffd60a&area=true&area_color=00ff9f" alt="Activity Graph"/>
-</p>
-
-<br>
-
-## <span style="color:#ffd60a">▸</span> `ls featured_projects/`
-
-<table>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/Clannadgh/PROJECT_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Clannadgh&repo=PROJECT_1&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff9f&text_color=c5d1de&icon_color=ff006e" alt="Project 1"/>
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/Clannadgh/PROJECT_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Clannadgh&repo=PROJECT_2&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff006e&text_color=c5d1de&icon_color=00ff9f" alt="Project 2"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-<a href="https://github.com/Clannadgh/PROJECT_3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Clannadgh&repo=PROJECT_3&theme=radical&hide_border=true&bg_color=0d1117&title_color=ffd60a&text_color=c5d1de&icon_color=00d9ff" alt="Project 3"/>
-</a>
-
-</td>
-<td width="50%">
-
-<a href="https://github.com/Clannadgh/PROJECT_4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Clannadgh&repo=PROJECT_4&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c5d1de&icon_color=ff006e" alt="Project 4"/>
-</a>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## <span style="color:#00d9ff">▸</span> `now_playing.spotify`
-
-<p align="center">
-  <img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=00ff9f&show_offline=false&text_color=c5d1de&progress_color=ff006e" alt="Spotify Now Playing" width="420"/>
-</p>
-
-<br>
-
-## <span style="color:#ff006e">▸</span> `wait --for=snake`
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Clannadgh/Clannadgh/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Clannadgh/Clannadgh/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake animation" src="https://raw.githubusercontent.com/Clannadgh/Clannadgh/output/github-contribution-grid-snake.svg"/>
-  </picture>
 </p>
 
 <br>
