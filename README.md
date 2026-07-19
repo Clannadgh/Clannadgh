@@ -76,6 +76,7 @@
 **`▸ frameworks/`**
 <br><br>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9f"/>
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Vue-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=00ff9f"/>
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d9ff"/>
 
