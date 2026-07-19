@@ -110,11 +110,8 @@
 ## <span style="color:#ffd60a">▸</span> `ping socials --status`
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_TWITTER"><img src="https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00d9ff" alt="LinkedIn"/></a>
-  <a href="https://YOUR_BLOG.com"><img src="https://img.shields.io/badge/Blog-0d1117?style=for-the-badge&logo=hashnode&logoColor=ff006e" alt="Blog"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff006e" alt="Email"/></a>
-  <a href="https://discord.gg/YOUR_DISCORD"><img src="https://img.shields.io/badge/Discord-0d1117?style=for-the-badge&logo=discord&logoColor=00d9ff" alt="Discord"/></a>
+  <a href="https://x.com/cf1362602"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/></a>
+  <a href="mailto:2192138934@qq.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff006e" alt="Email"/></a>
 </p>
 
 <br>
