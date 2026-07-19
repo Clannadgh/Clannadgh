@@ -68,8 +68,6 @@
 <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff9f"/>
 <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffd60a"/>
 <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=00ff9f"/>
-<img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=ff006e"/>
 <img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=ff9500"/>
 
 </td>
@@ -77,11 +75,8 @@
 
 **`▸ frameworks/`**
 <br><br>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9f"/>
 <img src="https://img.shields.io/badge/Vue-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=00ff9f"/>
-<img src="https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d9ff"/>
 
 </td>
@@ -91,8 +86,6 @@
 
 **`▸ cloud/`**
 <br><br>
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900"/>
-<img src="https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff"/>
 <img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=ff006e"/>
@@ -104,7 +97,6 @@
 <br><br>
 <img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff006e"/>
 <img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffd60a"/>
-<img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=00ff9f"/>
 <img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ff006e"/>
 <img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d9ff"/>
 
