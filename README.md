@@ -1,4 +1,4 @@
-<!-- ============== 陈发强 · GitHub Profile ============== -->
+<!-- ============== 心堵 · GitHub Profile ============== -->
 
 <div align="center">
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 👨‍💻 陈 发 强 · 前端开发 / 数据分析 / 小游戏
+### 👨‍💻 心 堵 · 前端开发 / 数据分析 / 小游戏
 
 <p>
   <a href="https://github.com/Clannadgh"><img src="https://img.shields.io/badge/GitHub-Clannadgh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -24,7 +24,7 @@
 ## 🧭 About Me
 
 ```yaml
-name     : 陈发强 (Chen Faqiang)
+name     : 心堵 (Chen Faqiang)
 school   : 深圳职业技术大学 · 大数据技术 (2024.09 → 在读)
 location : 深圳
 focus    : [Vue 3 全栈开发, 小游戏开发, 数据分析, LLM 工程化]
@@ -56,17 +56,6 @@ shipping : 把复杂问题拆成可复用的代码
 <img src="https://skillicons.dev/icons?i=python,java,fastapi,sqlite,git,github,linux" />
 <br/><br/>
 <sub>Python · Java · FastAPI · Pandas · LangChain · pandasai · LLaMA</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center" valign="top">
-
-**逆向 / 移动**
-<br/><br/>
-<img src="https://skillicons.dev/icons?i=android,apple" />
-<br/><br/>
-<sub>Frida · Hook · Android 静态/动态分析 · 小游戏双端适配</sub>
 
 </td>
 </tr>
@@ -160,9 +149,6 @@ shipping : 把复杂问题拆成可复用的代码
 | 📧 邮箱 | **2192138934@qq.com** |
 | 📱 手机 | **14775820346** (深圳) |
 | 🐙 GitHub | **[Clannadgh](https://github.com/Clannadgh)** |
-| 📂 简历 | **[陈发强 · 简历.pdf](./陈发强%20·%20简历.pdf)** |
-
-<sub>📬 投递简历请附 GitHub 链接 · 工作日 48 小时内回复</sub>
 
 </div>
 
