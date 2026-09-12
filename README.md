@@ -1,153 +1,219 @@
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-<!-- ▓▓▓ TERMINAL//OS · Profile v2.6.20 · last reboot 2026/07/19       -->
-<!-- ▓▓▓ customize: 搜 Clannadgh / Clannadgh / 占位符               -->
-<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00ff9f,80:ff006e,100:ffd60a&height=240&section=header&text=SYSTEM.READY&fontSize=0&fontColor=00ff9f&animation=twinkling" alt="header"/>
+<!-- ============== 陈发强 · GitHub Profile ============== -->
 
 <div align="center">
 
-```
-   ████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗
-   ╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║
-      ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║
-      ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║
-      ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-      ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
-                  ////  booting developer.profile  ////
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=2E86C1&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=110&lines=Hi+%F0%9F%91%8B+I'm+Chen+Faqiang;Frontend+Dev+%7C+Data+Analyst+%7C+Mini-Game+Maker;Welcome+to+my+digital+garden+%F0%9F%8C%B1" alt="Typing SVG" />
 
 </div>
 
-<!-- ░░ ANIMATED TAGLINE ░░ -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FF9F&background=0D111700&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=120&lines=%24%20whoami;root%40github%3A~%23%20i%20build%20things%20that%20matter;%24%20cat%20motto.txt;%22ship%20fast%2C%20learn%20faster%2C%20refactor%20later%22" alt="typing svg"/>
+<div align="center">
+
+### 👨‍💻 陈 发 强 · 前端开发 / 数据分析 / 小游戏
+
+<p>
+  <a href="https://github.com/Clannadgh"><img src="https://img.shields.io/badge/GitHub-Clannadgh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="mailto:2192138934@qq.com"><img src="https://img.shields.io/badge/Email-2192138934@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/📍-深圳-2E86C1?style=flat-square" alt="Location"/>
+  <img src="https://img.shields.io/badge/🎓-大专·大数据技术-D4A028?style=flat-square" alt="Edu"/>
 </p>
 
-<!-- ░░ QUICK STATS BAR ░░ -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Clannadgh&label=VISITORS&color=00ff9f&style=for-the-badge&labelColor=0d1117&logo=github&logoColor=0d1117" alt="visitors"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Clannadgh?label=FOLLOWERS&style=for-the-badge&color=ff006e&labelColor=0d1117&logo=github&logoColor=0d1117" alt="followers"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/stars/Clannadgh?label=STARS+EARNED&style=for-the-badge&color=ffd60a&labelColor=0d1117&logo=github&logoColor=0d1117" alt="stars"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/STATUS-AVAILABLE_FOR_HIRE-00d9ff?style=for-the-badge&labelColor=0d1117&logo=sparkfun&logoColor=0d1117" alt="status"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4510-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</div>
 
 ---
 
-## <span style="color:#00ff9f">▸</span> `cat about.md`
+## 🧭 About Me
 
 ```yaml
-┌──[ profile.json ]──────────────────────────────────────────┐
-│  name        : Clannadgh                                    │
-│  handle      : @Clannadgh                               │
-│  role        : Full-Stack Engineer · Indie Hacker          │
-│  location    : Somewhere on Earth 🌍                        │
-│  status      : [████████████░░] 86% caffeinated             │
-│  focus       : [building, shipping, learning in public]    │
-│  pronouns    : they/them                                    │
-│  motto       : "make it work, make it right, make it fast"  │
-│  fun_fact    : my variables are named after food            │
-└─────────────────────────────────────────────────────────────┘
+name     : 陈发强 (Chen Faqiang)
+school   : 深圳职业技术大学 · 大数据技术 (2024.09 → 在读)
+location : 深圳
+focus    : [Vue 3 全栈开发, 小游戏开发, 数据分析, LLM 工程化]
+awards   : 7 次省市级以上奖项 · 正大杯国赛一等奖
+shipping : 把复杂问题拆成可复用的代码
 ```
 
-<br>
+> 🎯 **现阶段在做的事**：用 **Vue 3 + TypeScript + AI 工程化** 打造好用的 Web 工具，独立交付并上架多款微信 / 抖音小游戏。
 
-## <span style="color:#ff006e">▸</span> `ls tech_stack/`
+---
 
-<table>
+## 🛠️ Tech Stack
+
+<table align="center">
 <tr>
-<td valign="top" width="50%">
+<td width="50%" align="center" valign="top">
 
-**`▸ languages/`**
-<br><br>
-<img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff9f"/>
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=ffd60a"/>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=ff9500"/>
+**前端 / 桌面**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=vue,ts,js,vite,tailwind,pinia,html,css,vscode" />
+<br/><br/>
+<sub>Vue 3 · TypeScript · Vite 7 · Pinia · TailwindCSS · Vue Router</sub>
 
 </td>
-<td valign="top" width="50%">
+<td width="50%" align="center" valign="top">
 
-**`▸ frameworks/`**
-<br><br>
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=00ff9f"/>
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/Vue-0d1117?style=for-the-badge&logo=vuedotjs&logoColor=00ff9f"/>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=00d9ff"/>
+**后端 / 数据 / AI**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,fastapi,sqlite,git,github,linux" />
+<br/><br/>
+<sub>Python · Java · FastAPI · Pandas · LangChain · pandasai · LLaMA</sub>
 
 </td>
 </tr>
 <tr>
-<td valign="top" width="50%">
+<td colspan="2" align="center" valign="top">
 
-**`▸ cloud/`**
-<br><br>
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Kubernetes-0d1117?style=for-the-badge&logo=kubernetes&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Redis-0d1117?style=for-the-badge&logo=redis&logoColor=ff006e"/>
-
-</td>
-<td valign="top" width="50%">
-
-**`▸ tools/`**
-<br><br>
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=ff006e"/>
-<img src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=ffd60a"/>
-<img src="https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=ff006e"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=00d9ff"/>
+**逆向 / 移动**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=android,apple" />
+<br/><br/>
+<sub>Frida · Hook · Android 静态/动态分析 · 小游戏双端适配</sub>
 
 </td>
 </tr>
 </table>
 
-<br>
+---
 
-## <span style="color:#ffd60a">▸</span> `ping socials --status`
+## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://x.com/cf1362602"><img src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=ffffff" alt="X"/></a>
-  <a href="mailto:2192138934@qq.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff006e" alt="Email"/></a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br>
+### 🤖 [CosAI](https://github.com/Clannadgh/cosai) · 智能电子表格 + AI 数据分析
 
-## <span style="color:#ff006e">▸</span> `tail -f activity.log`
+> 集成 Monaco Editor 的类 Excel Web 应用，对话式驱动数据修改与统计。
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Clannadgh&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9f&line=ff006e&point=ffd60a&area=true&area_color=00ff9f" alt="Activity Graph"/>
-</p>
+**架构亮点**
+- 前端自研 Table 组件（Cell / RowHeader / ColumnHeader），完整支持编辑、拖拽、撤销/重做
+- 后端 `FastAPI + pandasai + langchain` 双路由：意图识别 → modify 走 pandasai 生成代码 / question 直调 LLM
+- 工程化：ESLint · Pinia 持久化 · TypeScript 类型安全 · 单文件打包
 
-<br>
+**技术栈**: `Vue 3` · `TypeScript` · `Vite 7` · `FastAPI` · `pandasai` · `LangChain`
 
-## <span style="color:#ffd60a">▸</span> `echo "fun_facts"`
+⭐ **已开源** · 持续迭代中
 
-```bash
-$ fortune
-┌─────────────────────────────────────────────────────────────┐
-│  > a program is poetry if it makes you cry                  │
-│  > always deploy on friday and go to sleep                  │
-│  > it works on my machine™                                   │
-│  > there are 10 types of devs: those who git, and those who │
-│    don't                                                     │
-└─────────────────────────────────────────────────────────────┘
-```
+</td>
+<td width="50%" valign="top">
+
+### 🎮 [minigame-1](https://github.com/Clannadgh) · 微信 / 抖音双平台小游戏
+
+> 独立完成多款小游戏的开发、调试、上架全流程。
+
+**亮点**
+- 双端原生适配，绕开 WAGamePerformanceUtilsSDK 告警（downloadFile + copyFileSync 落本地）
+- 兼容不同平台的性能与包体限制，首屏体验优化
+- 完成小游戏软著申请材料撰写与提交，跟进平台审核与版本迭代
+
+**技术栈**: `微信原生` · `抖音 TMA` · `JavaScript ES6`
+
+📦 **已上架多款** · 软著齐全
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 宠物善终服务消费意愿研究 · 正大杯国赛一等奖
+
+> 围绕深圳宠物善终市场的混合研究项目。
+
+**方法论**
+- 定性：文本挖掘、词云可视化、深度访谈 → 扎根理论模型
+- 定量：**790 份**有效问卷（100 预 + 690 正式）→ IPA 分析 + K-means 聚类
+- 建模：AMOS 23.0 验证性因子分析 + SEM 结构方程模型 → 识别关键驱动机制
+
+**输出**: **"8I" 营销战略体系** · 客户分群（高需挑剔 / 情感驱动 / 边缘观望）
+
+🥇 **2025.05 全国总决赛一等奖** · 🥇 2025.04 广东赛区一等奖
+
+</td>
+<td width="50%" valign="top">
+
+### 📈 和鲸社区 · 数据分析系列作品
+
+> 13 个数据分析 Notebook，覆盖金融、体育、股票、宠物等行业真实数据集。
+
+**代表作**
+- HS300 指数择时量化策略 → **获奖作品**
+- UFC 赛事分析（1993-2023）
+- 中国黄金股票 / 金融量化系列
+- 宠物行业消费洞察
+
+**产出**: Pandas · Pyecharts · Matplotlib · SQL 系列可复现教程
+
+📊 **累计近万次浏览 · 上百次点赞收藏**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 荣誉奖项
+
+<div align="center">
+
+| 时间 | 奖项 | 等级 |
+|:---:|:---|:---:|
+| **2025.05** | **正大杯 · 全国总决赛（专科组）** | 🥇 **一等奖** |
+| **2025.04** | **正大杯 · 广东赛区（专科组）** | 🥇 **一等奖** |
+| 2024.01 | 广东省职业技能大赛 · 大数据应用与服务 | 🥇 一等奖 |
+| 2023.11 | 全国信息产业新技术竞赛 · Python 方向 | 🥈 二等奖 |
+| 2023.12 | 深圳市人工智能训练师竞赛 | 🥉 三等奖 |
+| 2023.05 | 深圳市 Python 语言与 BIM 竞赛 | 🥉 三等奖 |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Clannadgh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=D4A028&text_color=c9d1d9&bg_color=0D2B45,1F4E79" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170em" src="https://github-readme-streak-stats.demolab.com?user=Clannadgh&theme=tokyonight&hide_border=true&background=0D2B45&stroke=2E86C1&ring=D4A028&fire=D4A028&currStreakLabel=2E86C1" alt="Streak Stats"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Clannadgh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&title=MultiRepo,Commit,Stars,PullRequest" alt="Trophy"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Clannadgh/Clannadgh/main/github-contribution-grid-snake.svg" alt="Snake animation" />
+
+<sub>↑ 用 GitHub Action 自动生成的贪吃蛇动画，详见 <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
+</div>
+
+---
+
+## 📫 联系方式
+
+<div align="center">
+
+| 渠道 | 链接 |
+|:---:|:---|
+| 📧 邮箱 | **2192138934@qq.com** |
+| 📱 手机 | **14775820346** (深圳) |
+| 🐙 GitHub | **[Clannadgh](https://github.com/Clannadgh)** |
+| 📂 简历 | **[陈发强 · 简历.pdf](./陈发强%20·%20简历.pdf)** |
+
+<sub>📬 投递简历请附 GitHub 链接 · 工作日 48 小时内回复</sub>
+
+</div>
 
 ---
 
 <div align="center">
 
-```
-$ echo "thanks for visiting"
-thanks for visiting
-
-$ █
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:00ff9f,80:ff006e,100:ffd60a&height=180&section=footer&text=END_OF_TRANSMISSION&fontSize=20&fontColor=c5d1de&animation=twinkling" alt="footer"/>
+<sub>// end. — Built with ❤ by <a href="https://github.com/Clannadgh">Clannadgh</a></sub>
 
 </div>
