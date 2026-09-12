@@ -167,34 +167,6 @@ shipping : 把复杂问题拆成可复用的代码
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Clannadgh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=2E86C1&icon_color=D4A028&text_color=c9d1d9&bg_color=0D2B45,1F4E79" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170em" src="https://github-readme-streak-stats.demolab.com?user=Clannadgh&theme=tokyonight&hide_border=true&background=0D2B45&stroke=2E86C1&ring=D4A028&fire=D4A028&currStreakLabel=2E86C1" alt="Streak Stats"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Clannadgh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=4&title=MultiRepo,Commit,Stars,PullRequest" alt="Trophy"/>
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Clannadgh/Clannadgh/main/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-<sub>↑ 用 GitHub Action 自动生成的贪吃蛇动画，详见 <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-
-</div>
-
----
-
 ## 📫 联系方式
 
 <div align="center">
