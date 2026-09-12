@@ -24,7 +24,7 @@
 ## 🧭 About Me
 
 ```yaml
-name     : 心堵 (Chen Faqiang)
+name     : 心堵
 school   : 深圳职业技术大学 · 大数据技术 (2024.09 → 在读)
 location : 深圳
 focus    : [Vue 3 全栈开发, 小游戏开发, 数据分析, LLM 工程化]
