@@ -78,7 +78,7 @@ shipping : 把复杂问题拆成可复用的代码
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🤖 [CosAI](https://github.com/Clannadgh/cosai) · 智能电子表格 + AI 数据分析
 
@@ -94,27 +94,11 @@ shipping : 把复杂问题拆成可复用的代码
 ⭐ **已开源** · 持续迭代中
 
 </td>
-<td width="50%" valign="top">
-
-### 🎮 [minigame-1](https://github.com/Clannadgh) · 微信 / 抖音双平台小游戏
-
-> 独立完成多款小游戏的开发、调试、上架全流程。
-
-**亮点**
-- 双端原生适配，绕开 WAGamePerformanceUtilsSDK 告警（downloadFile + copyFileSync 落本地）
-- 兼容不同平台的性能与包体限制，首屏体验优化
-- 完成小游戏软著申请材料撰写与提交，跟进平台审核与版本迭代
-
-**技术栈**: `微信原生` · `抖音 TMA` · `JavaScript ES6`
-
-📦 **已上架多款** · 软著齐全
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 宠物善终服务消费意愿研究 · 正大杯国赛一等奖
+### 📊 [宠物善终服务消费意愿研究](https://github.com/Clannadgh/Zhengda_Cup) · 正大杯国赛一等奖
 
 > 围绕深圳宠物善终市场的混合研究项目。
 
@@ -130,7 +114,7 @@ shipping : 把复杂问题拆成可复用的代码
 </td>
 <td width="50%" valign="top">
 
-### 📈 和鲸社区 · 数据分析系列作品
+### 📈 [和鲸社区 · 数据分析系列作品](https://www.heywhale.com/home/user/profile/65a4c9aec401a5324ad56c1a/overview)
 
 > 13 个数据分析 Notebook，覆盖金融、体育、股票、宠物等行业真实数据集。
 
