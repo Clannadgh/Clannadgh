@@ -119,6 +119,24 @@ shipping : 把复杂问题拆成可复用的代码
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🎮 微信 / 抖音双平台小游戏
+
+> 独立完成多款小游戏的开发、调试、上架全流程（项目受合作方约束暂不开源）。
+
+**亮点**
+- 双端原生适配，绕开 WAGamePerformanceUtilsSDK 告警（downloadFile + copyFileSync 落本地）
+- 兼容不同平台的性能与包体限制，首屏体验优化
+- 完成小游戏软著申请材料撰写与提交，跟进平台审核与版本迭代
+
+**技术栈**: `微信原生` · `抖音 TMA` · `JavaScript ES6`
+
+📦 **已上架多款** · 软著齐全
+
+</td>
+</tr>
 </table>
 
 ---
