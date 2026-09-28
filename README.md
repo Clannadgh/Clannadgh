@@ -14,7 +14,7 @@
   <a href="https://github.com/Clannadgh"><img src="https://img.shields.io/badge/GitHub-Clannadgh-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
   <a href="mailto:2192138934@qq.com"><img src="https://img.shields.io/badge/Email-2192138934@qq.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/📍-深圳-2E86C1?style=flat-square" alt="Location"/>
-  <img src="https://img.shields.io/badge/🎓-大专·大数据技术-D4A028?style=flat-square" alt="Edu"/>
+  <img src="https://img.shields.io/badge/🎓-大数据技术-D4A028?style=flat-square" alt="Edu"/>
 </p>
 
 </div>
